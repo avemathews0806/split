@@ -73,7 +73,7 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url('/images/colored-pencils.jpg') center center no-repeat;
+    background: url('colored-pencils.jpg') center center no-repeat;
     background-size: cover;
 }
 
@@ -87,7 +87,7 @@ h1 {
 
 .split.right {
     right: 0;
-    background: url('/images/code-coder-coding-270348.jpg') center center no-repeat;
+    background: url('code-coder-coding-270348.jpg') center center no-repeat;
     background-size: cover;
 }
 
